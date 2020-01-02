@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<csm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<stratagems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<record>
 		<faction>Chaos Space Marines</faction>
 		<name>Daemon Shell</name>
@@ -559,4 +559,4 @@
 		<cost>1</cost>
 		<text>Use this Stratagem at the start of your Charge phase. Pick a SOULFORGED PACK DAEMON ENGINEfrom your army. That model can charge in this phase even if it Advanced earlier in the turn.</text>
 	</record>
-</csm>
+</stratagems>
