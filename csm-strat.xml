@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<csm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Daemon Shell</name>
+		<cost>1</cost>
+		<text>Use this Stratagem just before a HERETIC ASTARTES CHARACTER attacks with a bolt pistol, boltgun, combi-bolter or the boltgun profile of a combi-weapon. You can only make a single hit roll with the weapon (or boltgun profile) this phase, which you cannot re-roll. If the shot hits, the target suffers D3 mortal wounds; if the shot misses, your character suffers D3 mortal wounds.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Linebreaker Bombardment</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase if a &lt;LEGION&gt; Chaos Vindicator is within 6" of 2 other friendly &lt;LEGION&gt; Chaos Vindicators. If you do so, the Vindicators cannot fire their demolisher cannons this phase – instead, select a visible point on the battlefield within 24" of all three vehicles. Roll a D6 for each unit within 3" of that point. Add 1 to the result if the unit being rolled for has 10 or more models, but subtract 1 if the unit being rolled for is a CHARACTER. On a 4+ that unit suffers 3D3 mortal wounds.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Killshot</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase if a &lt;LEGION&gt; Chaos Predator is within 6" of 2 other friendly &lt;LEGION&gt; Chaos Predators. Add 1 to the wound rolls and damage for all of the Predators’ attacks that target MONSTERS or VEHICLES this phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Beseech the Chaos Gods</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of any of your turns. Select a unit with the &lt;MARK OF CHAOS&gt; keyword that has not dedicated itself to one of the Chaos Gods. You can immediately dedicate that unit to one of the Chaos Gods as described here.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Slaanesh</secondary>
+		<name>Endless Cacophony</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the end of your Shooting phase. Select a HERETIC ASTARTES SLAANESH INFANTRY or BIKER unit – that unit can immediately shoot again.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Blasphemous Machines</name>
+		<cost>1</cost>
+		<text>Use this Stratagem just before a HERETIC ASTARTES VEHICLE attacks in the Shooting phase. Until the end of the phase, that vehicle can ignore the penalties for moving and firing Heavy weapons, or for Advancing and firing Assault weapons.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Khorne</secondary>
+		<name>Fury of Khorne</name>
+		<cost>3</cost>
+		<text>Use this Stratagem at the end of the Fight phase. Select a HERETIC ASTARTES KHORNE INFANTRY or BIKER unit – that unit can immediately fight again.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Flakk Missile</name>
+		<cost>1</cost>
+		<text>Use this Stratagem just before a friendly HERETIC ASTARTES INFANTRY model attacks a unit that can FLYwith a missile launcher. You only make a single hit roll with the weapon this phase; however, add 1 to the hit roll and, if it hits, the target suffers D3 mortal wounds.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Chaos Boon</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the end of a Fight phase in which one of your HERETIC ASTARTES CHARACTERS (excluding DAEMON CHARACTERS) slays an enemy CHARACTER, VEHICLE or MONSTER. Roll 2D6 and look up the result below.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Fire Frenzy</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase, just before a Helbrute shoots. If that Helbrute did not move in its Movement phase, it can fire all of its weapons twice but all of its attacks must target the nearest visible enemy unit.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Alpha Legion</secondary>
+		<name>Forward Operatives</name>
+		<cost>1</cost>
+		<text>Use this Stratagem during deployment, when you set up an ALPHA LEGION INFANTRY unit from your army. At the start of the first battle round but before the first turn begins, you can move that unit up to 9". It cannot end this move within 9" of any enemy models. If both players have units that can move before the first turn begins, the player who is taking the first turn moves their units first. Each unit can only be selected for this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Word Bearers</secondary>
+		<name>Dark Pact</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a WORD BEARERS CHARACTERattempts to summon a unit of DAEMONS to the battlefield using a Daemonic Ritual. You can re-roll any of the dice used in the summoning roll, and your character will not suffer any mortal wounds for rolling doubles or triples.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Iron Warriors</secondary>
+		<name>Iron Within, Iron Without</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when an IRON WARRIORS unit loses a wound. Roll a D6 for that wound, and for each wound lost by the unit for the rest of the phase; on a 6, that wound is not lost.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Veterans of the Long War</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a HERETIC ASTARTES INFANTRYor BIKER unit is selected to attack in a Shooting or Fightphase (excluding units from Renegade Chapters). You can add 1 to all wound rolls made for the unit until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>World Eaters</secondary>
+		<name>Scorn of Sorcery</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when an enemy PSYKER manifests a psychic power within 24" of a friendly WORLD EATERS unit. Roll a D6; on a 4+, the effects of that psychic power are negated.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Nurgle</secondary>
+		<name>Grandfather's Blessings</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the end of your Movement phase. Select a HERETIC ASTARTES NURGLE INFANTRY or BIKER unit. One model in the unit heals D3 wounds. If there are no wounded models in the unit, a single model in the unit that was slain earlier in the battle is returned to the unit with a single wound remaining.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Daemonforge</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting or Fight phase when a Chaos Space Marine DAEMON VEHICLE is chosen to attack. You can re-roll all failed hit and wound rolls for that model until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Emperor's Children</secondary>
+		<name>Excess of Violence</name>
+		<cost>1</cost>
+		<text>Use this Stratagem just before an EMPEROR’S CHILDREN INFANTRY unit attacks in the Fight phase. Each time a model in your unit slays an enemy model, it can immediately make another hit roll using the same weapon at the same target (these bonus attacks cannot themselves generate any further attacks).</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Night Lords</secondary>
+		<name>In Midnight Clad</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a NIGHT LORDS INFANTRY unit is targeted by a shooting attack. For the rest of the phase, your opponent must subtract 1 from all hit rolls that target that unit.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Chaos Familiar</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Psychic phase. Select a friendly HERETIC ASTARTES PSYKER. That model can replace any of its psychic powers with a power of your choice from the Dark Hereticus discipline.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Tzeentch</secondary>
+		<name>The Great Sorcerer</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the end of your Psychic phase. Select a HERETIC ASTARTES TZEENTCH PSYKER. The psyker can immediately attempt to manifest one additional psychic power this turn.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Black Legion</secondary>
+		<name>Let the Galaxy Burn</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a BLACK LEGION INFANTRY or BIKER unit is selected to attack in a Shooting or Fight phase. You can re-roll all hit rolls of 1 for that unit for the rest of the phase. If the unit is a Chaos Space Marine squad, you can re-roll all failed hit rolls for it instead.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<name>Tide of Traitors</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the end of your Movement phase. If you do, pick a unit of Chaos Cultists and remove it from the battlefield. You can then set it up again wholly within 6" of the edge of the battlefield and more than 9" from any enemy models, at its full starting strength. You can only use this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>Black Legion</faction>
+		<name>Merciless Fighters</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the Fight phase. Pick a BLACK LEGION unit from your army. If that unit has more models than there are enemy models within 3" of it, add 1 to the Attacks characteristic of models in that unit until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Black Legion</faction>
+		<name>Chosen of the Pantheon</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your turn. Pick a BLACK LEGION unit from your army with the &lt;MARK OF CHAOS&gt;keyword that you did not dedicate to a specific Dark God. That unit has the KHORNE, TZEENTCH, NURGLE and SLAANESH keywords until the start of your next turn.</text>
+	</record>
+	<record>
+		<faction>Black Legion</faction>
+		<name>Tip of the Spear</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your first Shooting phase. You can re-roll hit rolls for the BLACK LEGION unit from your army that is closest to an enemy unit until the end of the phase. If several units are equidistant, you can pick which one is affected.</text>
+	</record>
+	<record>
+		<faction>Black Legion</faction>
+		<name>World Killers</name>
+		<cost>3</cost>
+		<text>Use this Stratagem at the start of any battle round. Until the end of that battle round, enemy units cannot use any abilities that allow them to control an objective marker if there are any BLACK LEGION units from your army within 3" of the centre of that objective marker, even if there are more enemy models within range of it.</text>
+	</record>
+	<record>
+		<faction>Black Legion</faction>
+		<name>Legacy of Horus</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the Morale phase. Until the end of the phase, add 1 to the Leadership characteristic of &lt;LEGION&gt; (except BLACK LEGION) units from your army while they are within 6" of any friendly BLACK LEGION units.</text>
+	</record>
+	<record>
+		<faction>Black Legion</faction>
+		<name>Council of Traitors</name>
+		<cost>1</cost>
+		<text>Use this Stratagem before the battle if your Warlord is a BLACK LEGION CHAOS LORD, DAEMON PRINCE or ABADDON THE DESPOILER. Pick up to one BLACK LEGION DARK APOSTLE and up to one BLACK LEGION SORCERER from your army. Generate a Warlord Trait for each model you picked (note that these models are only regarded as your Warlord for the purposes of these Warlord Traits). You can only use this Stratagem once per battle. No two characters from your army can have the same Warlord Trait.</text>
+	</record>
+	<record>
+		<faction>Red Corsairs</faction>
+		<name>More Where They Came From</name>
+		<cost>3</cost>
+		<text>Use this Stratagem at the end of your Movement phase. Pick a RED CORSAIRS CHAOS SPACE MARINES unit from your army that is on the battlefield. Remove that unit from the battlefield and set it up again, wholly within 6" of the edge of the battlefield and more than 9" from any enemy models, at its full starting strength.</text>
+	</record>
+	<record>
+		<faction>Crimson Slaughter</faction>
+		<name>Terrifying Phenomena</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the start of the enemy Shooting phase. Pick a terrain feature that is within 12" of a CRIMSON SLAUGHTER unit from your army. Subtract 1 from hit rollsfor attacks made by enemy units within 3" of that terrain feature until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Purge</faction>
+		<name>All Life is Worthless</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase. Pick a PURGEunit from your army that is not within 1" of any enemy models. That unit can target enemy units that are within 1" of friendly units until the end of the phase, but each time you roll an unmodified hit roll of 1 for such an attack, resolve that attack against a friendly unit (your choice) within 1" of the target unit instead.</text>
+	</record>
+	<record>
+		<faction>Scourged</faction>
+		<name>Prescience</name>
+		<cost>2</cost>
+		<text>Use this Stratagem after your opponent sets up a unit that is arriving on the battlefield as reinforcements. Pick a SCOURGED INFANTRY unit from your army that is within 12" of that enemy unit. Your unit can immediately shoot at that enemy unit as if it were your Shooting phase.</text>
+	</record>
+	<record>
+		<faction>Brazen Beasts</faction>
+		<name>Burning Daemonheart</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the end of the Fight phase. Pick an enemy unit that is within 1" of any BRAZEN BEASTS DAEMON ENGINES from your army. Roll a D6; on a 2-4 that unit suffers D3 mortal wounds. On a 5-6 it suffers 3 mortal wounds instead.</text>
+	</record>
+	<record>
+		<faction>Flawless Host</faction>
+		<name>We Cannot Fail</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when you pick a FLAWLESS HOST INFANTRY unit from your army to fight with in the Fight phase. Until the end of the phase you can re-roll hit rolls for attacks made by that unit.</text>
+	</record>
+	<record>
+		<faction>Word Bearers</faction>
+		<name>Revered Hosts</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when a WORD BEARERS POSSESSED unit or WORD BEARERS GREATER POSSESSED unit from your army is chosen to fight with. Until the end of the phase, add 1 to the Damage characteristic of melee weapons models in that unit are equipped with.</text>
+	</record>
+	<record>
+		<faction>Word Bearers</faction>
+		<name>Malevolent Covenant</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Psychic phase, after a WORD BEARERS PSYKER unit from your army fails a Psychic test. The power is automatically manifested by that PSYKER unit at the minimum required warp charge value and without a double having been rolled, and cannot be resisted by a Deny the Witch attempt. After resolving the effects of the psychic power, that PSYKER unit suffers 1 mortal wound.</text>
+	</record>
+	<record>
+		<faction>Word Bearers</faction>
+		<name>Hexagrammatic Ward</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in any phase, after making a saving throwfor a WORD BEARERS CHARACTER model from your army. Treat the result of that saving throw as 6. Each WORD BEARERS CHARACTER model from your army can only be the target of this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>Word Bearers</faction>
+		<name>Apostle of the Dark Council</name>
+		<cost>1</cost>
+		<text>Use this Stratagem before the battle. Select one WORD BEARERS PRIEST model from your army. That model gains the following ability: ‘Dark Council: This model knows one additional prayer from the Prayers to the Dark Gods (see Codex: Chaos Space Marines), and can chant one additional prayer at the start of the battle round.’ You can only use this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>Word Bearers</faction>
+		<name>Vengeance for Monarchia</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when a WORD BEARERS unit from your army is chosen to fight with. Until the end of that phase, when resolving an attack made with a melee weapon by a model in that unit against an ULTRAMARINES unit, you can re-roll the hit roll and you can re-roll the wound roll.</text>
+	</record>
+	<record>
+		<faction>Word Bearers</faction>
+		<name>Cursed Despoilers</name>
+		<cost>2</cost>
+		<text>Use this Stratagem after deployment but before the first battle round begins, if a WORD BEARERS unit from your army is on the battlefield. Select one terrain feature (other than a Fortification). Units entirely on or within that terrain feature do not gain the benefit of cover to their saving throws.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>We Have Come for You</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your opponent’s Movement phase. Select one NIGHT LORDS unit from your army that is not a VEHICLE. Until the start of your next turn, enemy units within 1" of that unit cannot Fall Back unless they have the VEHICLE or TITANIC keyword, or have a minimum Movecharacteristic.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>Vox Scream</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the end of your Movement phase. Select one enemy unit within 18" of any NIGHT LORDS units from your army. Until the start of your next Movement phase, enemy units cannot be affected by any of the selected unit’s aura abilities.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>From the Night</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Charge phase. Select one NIGHT LORDS INFANTRY unit from your army that is entirely on or within a terrain feature. Until the end of the turn, when a charge roll is made for that unit, add 2 to the result, and when resolving an attack made with a melee weapon by a model in that unit, add 1 to the hit roll.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>Prey on the Weak</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase or the Fight phase, when a NIGHT LORDS unit from your army is chosen to shoot or fight with. Until the end of that phase, when resolving an attack made by a model in that unit against an enemy unit whose models have a lower Leadership characteristic than the attacking model, add 1 to the hit roll.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>Raptor Strike</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Charge phase, before making a charge roll for a NIGHT LORDS JUMP PACK unit from your army that was set up on the battlefield as reinforcements this turn. Roll 3D6 for that charge roll instead of 2D6.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>Flay Them Alive</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when an enemy unit is destroyed as a result of an attack made by a NIGHT LORDS model from your army. Until the end of the turn, when a Morale test is taken for an enemy unit within 12" of that NIGHT LORDS unit, your opponent must roll one additional D6 and you can choose one of those dice to be discarded.</text>
+	</record>
+	<record>
+		<faction>Night Lords</faction>
+		<name>Hit and Run</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Charge phase. Select one NIGHT LORDS unit from your army. That unit can charge even if it Fell Back this turn.</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>Renascent Infiltration</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the end of your Movement phase. Select one ALPHA LEGION INFANTRY unit from your army that is more than 3" away from any enemy models (you cannot select a unit that arrived as reinforcements this turn). Remove that unit from the battlefield. At the end of your next Movement phase, set up that unit on the battlefield again, anywhere that is more than 9" away from any enemy models. Any models that cannot be set up in this way are destroyed. If the battle ends before that unit is set back up, it is destroyed.</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>Conceal</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the start of your opponent’s Shooting phase. Select one ALPHA LEGION INFANTRY unit from your army. Until the end of that phase, enemy models can only target that unit if it is the closest visible target.</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>Ambush</name>
+		<cost>2</cost>
+		<text>Use this Stratagem in your opponent’s Movement phase, after an enemy unit is set up on the battlefield as reinforcements. Select one ALPHA LEGION unit from your army within 18" of that unit to shoot at that unit as if it were your Shooting phase.</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>Sabotaged Armory</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in any phase, before your opponent rolls to see if a VEHICLE model from their army explodes. If any ALPHA LEGION units from your army are on the battlefield, add 3 to one of the D6 rolled, and the roll cannot be re-rolled.</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>Feigned Retreat</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Movement phase, when you Fall Back with an ALPHA LEGION unit from your army. That unit can still shoot this turn.</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>Scrambled Coordinates</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your opponent’s Movement phase, when an enemy unit is set up on the battlefield as reinforcements but before it is placed on the battlefield. That unit must be set up more than 12" away from ALPHA LEGION units from your army, rather than 9".</text>
+	</record>
+	<record>
+		<faction>Alpha Legion</faction>
+		<name>We are Alpharius</name>
+		<cost>1</cost>
+		<text>Use this Stratagem before the battle, after nominating your Warlord. Select one ALPHA LEGION CHARACTER model from your army that is not your Warlord and determine one Warlord Trait for it; it is regarded as your Warlord for the purposes of that Warlord Trait. Each Warlord Trait in your army must be unique (if randomly generated, re-roll duplicate results). You can only use this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Tank Hunters</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase or the Fight phase, when you choose an IRON WARRIORS unit from your army (excluding CHAOS CULTISTS) to shoot or fight with. Select one enemy VEHICLE unit. Until the end of that phase, when resolving an attack made by a model in that IRON WARRIORS unit against the selected unit, you can re-roll the wound roll.</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Methodical Annihilation</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase, when an IRON WARRIORS unit from your army is chosen to shoot with. Select one of the following effects to last until the end of that phase: When resolving an attack made by a model in that unit, you can re-roll the damage roll. You can re-roll any or all of the dice to determine the Type characteristic of weapons that models in that unit are equipped with.</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Rampant Techno-Virus</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase or the Fight phase, when you select an IRON WARRIORS OBLITERATORS or IRON WARRIORS MUTILATORS unit from your army to shoot or fight with. Until the end of that phase, you can re-roll any or all D3 rolls made for that unit’s Fleshmetal Guns or Fleshmetal Weapons ability.</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Dour Duty</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your opponent’s Shooting phase or your Charge phase, when an IRON WARRIORS unit from your army is chosen as the target for an attack. Until the end of that phase, when resolving an attack made with a ranged weapon against that unit, worsen the Armour Penetration characteristic of that weapon by 1 for that attack (e.g. AP -1 becomes AP 0).</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Cannon Fodder</name>
+		<cost>2</cost>
+		<text>Use this Stratagem at the start of your opponent’s Shooting phase. Select one IRON WARRIORS INFANTRY unit from your army then select one friendly IRON WARRIORS CHAOS CULTISTS unit wholly within 6" of that unit. Until the end of that phase, enemy models cannot target that IRON WARRIORS INFANTRY unit if the selected IRON WARRIORS CHAOS CULTISTS unit is a closer visible target.</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Unholy Vigour</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Movement phase. Select one IRON WARRIORS VEHICLE model from your army. That model regains up to 3 lost wounds.</text>
+	</record>
+	<record>
+		<faction>Iron Warriors</faction>
+		<name>Bitter Enmity</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when an IRON WARRIORS unit from your army is chosen to fight with. Until the end of that phase, when resolving an attack made with a melee weapon by a model in that unit against an IMPERIAL FISTS unit, you can re-roll the hit roll and you can re-roll the wound roll.</text>
+	</record>
+	<record>
+		<faction>Emperor's Children</faction>
+		<name>Combat Elixirs</name>
+		<cost>2</cost>
+		<text>Use this Stratagem before the battle. Select one EMPEROR’S CHILDREN unit from your army that is not a VEHICLE or CHAOS CULTIST, then select one of the following effects to apply to models in that unit until the end of the battle: +1 to Attacks characteristic, +1 to Strength characteristic, +2" to Move characteristic, +1 to Toughness characteristic. You can only use this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>Emperor's Children</faction>
+		<name>Excruciating Frequencies</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase, when an EMPEROR’S CHILDREN NOISE MARINES unit from your army is chosen to shoot with. Until the end of that phase, add 1 to the Strength and Damage characteristics of blastmasters, sonic blasters and doom sirens models in that unit are equipped with.</text>
+	</record>
+	<record>
+		<faction>Emperor's Children</faction>
+		<name>Cruel Duellists</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Shooting phase, when an EMPEROR’S CHILDREN NOISE MARINES unit from your army is chosen to shoot with. Until the end of that phase, add 1 to the Strength and Damage characteristics of blastmasters, sonic blasters and doom sirens models in that unit are equipped with.</text>
+	</record>
+	<record>
+		<faction>Emperor's Children</faction>
+		<name>Incessant Disdain</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the end of your opponent’s Charge phase. Select one EMPEROR’S CHILDREN CHARACTERmodel from your army. That model can perform a Heroic Intervention if it is within 6" of any enemy models, and can move up to 6" when doing so as long as it finishes that move within 1" of any enemy CHARACTER models or the nearest enemy model.</text>
+	</record>
+	<record>
+		<faction>Emperor's Children</faction>
+		<name>Tactical Perfection</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the first battle round, before the first turn begins. Select one EMPEROR’S CHILDREN unit from your army. Remove that unit from the battlefield and set it up again following the usual deployment rules for that unit and the mission being played. If you redeploy a TRANSPORTmodel, units embarked aboard it remain so when it is set up again.</text>
+	</record>
+	<record>
+		<faction>Emperor's Children</faction>
+		<name>Honour the Prince</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in your Charge phase, after making a charge roll for an EMPEROR’S CHILDREN SLAANESH unit from your army. You can change the result of one of the D6 rolled to a 6.</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Kill! Maim! Burn!</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, before you consolidatewith a WORLD EATERS unit from your army. Until the end of that phase, each model in that unit can move up to 6" when they consolidate, instead of 3".</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Apoplectic Frenzy</name>
+		<cost>1</cost>
+		<text>Use this Stratagem during deployment, when you set up a WORLD EATERS INFANTRY unit from your army. At the start of the first battle round but before the first turn begins, you can move that unit up to 9". It cannot end this move within 9" of any enemy models. If both players have units that can move before the first turn begins, the player who is taking the first turn moves their units first.</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Wild Fury</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when you select a WORLD EATERS unit from your army to fight with. Until the end of that phase, improve the Armour Penetration characteristic of melee weapons models in that unit are equipped with by 1 (e.g. AP 0 becomes AP -1).</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Skulls for the Skull Throne!</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when an enemy CHARACTER model is destroyed as a result of an attack made with a melee weapon by a WORLD EATERS CHARACTERmodel from your army. Gain D3 Command Points.</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Stoke the Nails</name>
+		<cost>1</cost>
+		<text>Use this Stratagem in the Fight phase, when a WORLD EATERS INFANTRY or WORLD EATERS BIKER unit from your army that is not a CHAOS CULTIST is chosen to fight with. Until the end of that phase, that unit’s Death to the False Emperor ability takes effect when targeting any enemy units, not just IMPERIUM units. In addition, when targeting IMPERIUM units, the ability takes effect on hit rolls of 5+.</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Red Butchers</name>
+		<cost>2</cost>
+		<text>Use this Stratagem before the battle. Select one WORLD EATERS CHAOS TERMINATORS unit from your army. Add 1 to the Strength characteristic of models in that unit, and that unit gains the following ability: ‘Blood for the Blood God:This unit can fight twice in each Fight phase, instead of only once’. You can only use this Stratagem once per battle.</text>
+	</record>
+	<record>
+		<faction>World Eaters</faction>
+		<name>Blood for the Blood God!</name>
+		<cost>2</cost>
+		<text>Use this Stratagem in the Fight phase, after an enemy unit is destroyed as a result of an attack made by a WORLD EATERS model from your army. Until the start of your next turn, when a Morale test is taken for a friendly WORLD EATERS unit, do not roll the dice; it is automatically passed.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Bringers of Despair</secondary>
+		<name>Brutal Subjugation</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the Fight phase. Pick a BRINGERS OF DESPAIR unit from your army. Each enemy model slain by this unit in this phase counts as two models in the subsequent Morale phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Bringers of Despair</secondary>
+		<name>Chosen Enforcers</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a friendly HERETIC ASTARTES unit that is within 18" of a BRINGERS OF DESPAIR unit from your army is required to take a Morale test. That unit automatically passes that Morale test.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Cult of the Damned</secondary>
+		<name>Ritual Offerings</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when an enemy model is destroyed by an attack made by a CULT OF THE DAMNED CHAOS CULTISTS unit from your army in the Fight phase. That Chaos Cultist unit automatically passes Morale tests for the rest of the battle.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Cult of the Damned</secondary>
+		<name>Chorus of the True Faith</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a CULT OF THE DAMNED DARK APOSTLE from your army chants a prayer. If there are any friendly CULT OF THE DAMNED CHAOS CULTISTS units within 6" of that Dark Apostle, add 1 to the dice roll to see if that prayer is heard.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Daemonkin Ritualists</secondary>
+		<name>Vessels for the Neverborn</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the Fight phase. Pick a DAEMONKIN RITUALISTS DAEMON unit from your army that is within 6" of a friendly DAEMONKIN RITUALISTS MASTER OF POSSESSION. Add 1 to the Strength and Attacks characteristics of models in the unit you picked until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Daemonkin Ritualists</secondary>
+		<name>Souls of the Devoted</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Movement phase. Pick a DAEMONKIN RITUALISTS POSSESSED unit from your army and a friendly DAEMONKIN RITUALISTS CHARACTER that is within 6" of that unit and roll a D3. The POSSESSED unit suffers a number of mortal wounds equal to the result. The CHARACTER then regains a number of lost wounds equal to the result.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Devastation Battery</secondary>
+		<name>Wall-Breakers</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Shooting phase. Pick a DEVASTATION BATTERY unit from your army. You can re-roll damage rolls for attacks made with ranged weapons by that unit that target BUILDINGS until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Devastation Battery</secondary>
+		<name>Punishing Volley</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the end of your opponent’s first Movement phase, if you did not have the first turn. Pick a DEVASTATION BATTERY unit from your army. That unit can shoot as if it were the Shooting phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Fallen Angels</secondary>
+		<name>Without a Trace</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the enemy Shooting phase. Pick a FALLEN ANGELS unit from your army that is entirely on or within any terrain feature. Subtract 1 from hit rolls for attacks that target that unit until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Fallen Angels</secondary>
+		<name>Ancient Enmity</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when you pick a FALLEN ANGELS unit from your army to fight with. You can re-roll wound rolls for attacks made by this unit that target DARK ANGELS units until the end of the phase.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Host Raptorial</secondary>
+		<name>Vicious Descent</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when a HOST RAPTORIAL unit from your army is set up on the battlefield at the end of the Movement phase. You can re-roll hit rolls for attacks made by that unit until the end of the turn.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Host Raptorial</secondary>
+		<name>Terror Strike</name>
+		<cost>1</cost>
+		<text>Use this Stratagem when an enemy unit is destroyed by a HOST RAPTORIAL unit from your army. Subtract 1 from the Leadership characteristic of enemy units while they are within 6" of any HOST RAPTORIAL units from your army until the end of the turn.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Soulforged Pack</secondary>
+		<name>Daemonforge Overdrive</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of the Fight phase. Pick a SOULFORGED PACK DAEMON ENGINEfrom your army. Double the number of wounds that model has remaining for the purposes of determining what characteristics to use on its damage table until the end of the phase, or until this model is reduced to 0 wounds, whichever occurs first.</text>
+	</record>
+	<record>
+		<faction>Chaos Space Marines</faction>
+		<secondary>Soulforged Pack</secondary>
+		<name>Infernal Engines</name>
+		<cost>1</cost>
+		<text>Use this Stratagem at the start of your Charge phase. Pick a SOULFORGED PACK DAEMON ENGINEfrom your army. That model can charge in this phase even if it Advanced earlier in the turn.</text>
+	</record>
+</csm>
